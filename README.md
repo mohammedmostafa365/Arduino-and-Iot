@@ -84,9 +84,3 @@ Passionate about Arduino, IoT, and Embedded Systems
 
 ---
 
-## 📜 License
-
-This repository is shared for educational purposes.  
-You can use and modify the code freely with proper attribution.
-
----
